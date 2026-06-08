@@ -65,5 +65,3 @@ React Router ile çok sayfalı blog - Nested & Protected routes
 - 💼 GitHub: [@candenizt7](https://github.com/candenizt7)
 
 ---
-
-⭐ **Hedefim:** Full Stack Developer olmak ve gerçek dünya problemlerine çözümler üretmek!
